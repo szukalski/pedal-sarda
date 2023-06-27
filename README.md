@@ -18,6 +18,8 @@ There is no support supplied or guaranteed for the PCB. I have built it and it w
 
 ## Images
 
+![Sarda](sarda-schematic.png)
+
 ![Sarda](sarda-pcb.png)
 
 ![Sarda](sarda-pcb-components.png)
