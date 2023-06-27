@@ -20,6 +20,8 @@ There is no support supplied or guaranteed for the PCB. I have built it and it w
 
 ![Sarda](sarda-pcb.png)
 
+![Sarda](sarda-pcb-components.png)
+
 ![Sarda](sarda-built-front.jpg)
 
 ![Sarda](sarda-built-back.jpg)
