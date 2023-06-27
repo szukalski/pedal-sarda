@@ -1,7 +1,7 @@
 # pedal-sarda
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
-This is based on the Clown Centurian by dylan159 at [www.freestompboxes.com](https://www.freestompboxes.org/viewtopic.php?t=31222). I have added the option for LED clipping in a "modern" mode. It gives a little more bite.
+This is based on the Clown Centurian by dylan159 at [www.freestompboxes.org](https://www.freestompboxes.org/viewtopic.php?t=31222). I have added the option for LED clipping in a "modern" mode. It gives a little more bite.
 
 This repository contains:
 
